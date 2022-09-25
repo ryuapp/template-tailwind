@@ -1,5 +1,5 @@
 # Template-Tailwind
-template using tailwind css for me.
+template using tailwind css for <a href="https://github.com/ryuapp">@ryuapp</a>
 
 ## Components
 ### Header
